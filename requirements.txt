@@ -1,0 +1,15 @@
+easyocr
+pdf2image
+img2table
+numpyfastapi
+filetype
+uvicorn
+python-multipart
+pathlib
+scikit-learn
+opencv-python
+database
+pydantic
+psycopg2
+asyncpg 
+re
